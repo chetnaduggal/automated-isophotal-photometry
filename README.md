@@ -4,7 +4,7 @@ An extensively used method of measuring photometry for extended sources like gal
 
 Unrelated neighboring galaxies and stars are masked out prior to the fitting. The isophotal profiles (surface brightness, ellipticity, position angle vs. radial distance) are extracted from the images in the form of an ASCII table. Photometry is derived based on the 1σ isophote - the isophote with intensity 1 standard deviation above the mean of the sky background - which is selected as the outermost isophote and used as the integration aperture. Systematic uncertainty in the computed magnitudes is derived by adding the Poisson noise in source flux and RMS error from the sky background, in quadrature.
 
-The photometric measurements were corrected for Galactic extinction using the scaling relation by Cardelli et al. (1989) and the E(B−V) color excess sourced from the NASA/IPAC archive. 
+The photometric measurements were corrected for Galactic extinction using the scaling relation by Cardelli et al. (1989) and the E(B−V) color excess sourced from the [NASA/IPAC]( https://irsa.ipac.caltech.edu/applications/DUST/) archive. 
 
 ----------------------------
 ### Data 
